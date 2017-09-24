@@ -1,0 +1,6 @@
+D:\Program\LanPhan2017\TestGitHub\TestGitHub\bin\TestGitHub.dll.config
+D:\Program\LanPhan2017\TestGitHub\TestGitHub\bin\TestGitHub.dll
+D:\Program\LanPhan2017\TestGitHub\TestGitHub\bin\TestGitHub.pdb
+D:\Program\LanPhan2017\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csprojResolveAssemblyReference.cache
+D:\Program\LanPhan2017\TestGitHub\TestGitHub\obj\Debug\TestGitHub.dll
+D:\Program\LanPhan2017\TestGitHub\TestGitHub\obj\Debug\TestGitHub.pdb
